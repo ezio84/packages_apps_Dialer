@@ -53,6 +53,8 @@
      start requests, even if they happen immediately after the user
      presses home. -->
     <uses-permission android:name="android.permission.STOP_APP_SWITCHES" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="com.qualcomm.permission.USE_PHONE_SERVICE" />
 
     <application
         android:name="DialerApplication"
@@ -275,6 +277,10 @@
                   android:process="com.android.incallui"
                   android:screenOrientation="nosensor" >
         </activity>
+
+        <service android:name="com.android.services.callrecorder.CallRecorderService"
+                 android:process="com.android.incallui">
+        </service>
 
         <!-- BroadcastReceiver for receiving Intents from Notification mechanism. -->
         <receiver android:name="com.android.incallui.InCallApp$NotificationBroadcastReceiver"
