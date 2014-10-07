@@ -15,6 +15,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Call Recorder -->
+    <string name="start_call_playback">Riproduci registrazione</string>
+    <string name="stop_call_playback">Stop</string>
+    <string name="call_playback_error_message">Riproduzione fallita</string>
+
     <string name="call_log_stats_title">Statistiche</string>
     <string name="callStatsDetailTitle">Dettagli statistiche chiamate</string>
 

@@ -15,9 +15,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Call Recorder -->
     <string name="start_call_playback">Play recording</string>
     <string name="stop_call_playback">Stop</string>
     <string name="call_playback_error_message">Failed to play recording</string>
+
     <string name="call_log_stats_title">Statistics</string>
     <string name="callStatsDetailTitle">Call stat details</string>
 
@@ -76,10 +78,5 @@
     <string name="dialpad_9_2_letters"></string>
     <string name="dialpad_star_2_letters" translatable="false"></string>
     <string name="dialpad_pound_2_letters" translatable="false"></string>
-
-          <!-- Call Recorder -->
-    <string name="start_call_playback">Play recording</string>
-    <string name="stop_call_playback">Stop</string>
-    <string name="call_playback_error_message">Failed to play recording</string>
 
 </resources>
