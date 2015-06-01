@@ -17,6 +17,10 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="menu_add_to_blacklist">Aggiungi alla blacklist</string>
+
+    <string name="menu_add_to_blacklist">Aggiungi alla blacklist</string>
     <string name="toast_added_to_blacklist">%s aggiunto alla blacklist.</string>
+
+    <string name="nearby_places">Posti vicini</string>
+    <string name="people">Persone</string>
 </resources>
