@@ -23,4 +23,17 @@
 
     <string name="nearby_places">Posti vicini</string>
     <string name="people">Persone</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Ricerca luoghi e persone</string>
+    <string name="lookup_settings_description">Ricerca avanzata tramite rete di luoghi e persone</string>
+    <string name="enable_forward_lookup_title">Ricerca luoghi</string>
+    <string name="enable_forward_lookup_summary">Mostra risultati online per luoghi rispondendi al numero digitato nel dialer</string>
+    <string name="enable_people_lookup_title">Ricerca persone</string>
+    <string name="enable_people_lookup_summary">Mostra risultati online per persone rispondendi al numero digitato nel dialer</string>
+    <string name="enable_reverse_lookup_title">Ricerca inversa</string>
+    <string name="enable_reverse_lookup_summary">Informazioni su luoghi e persone rispondenti al numero sconosciuto della chiamata in arrivo</string>
+    <string name="forward_lookup_provider_title">Scegli provider ricerca luoghi</string>
+    <string name="people_lookup_provider_title">Scegli provider ricerca persone</string>
+    <string name="reverse_lookup_provider_title">Scegli provider ricerca inversa</string>
 </resources>
