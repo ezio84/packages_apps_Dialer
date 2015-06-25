@@ -36,4 +36,12 @@
     <string name="forward_lookup_provider_title">Scegli provider ricerca luoghi</string>
     <string name="people_lookup_provider_title">Scegli provider ricerca persone</string>
     <string name="reverse_lookup_provider_title">Scegli provider ricerca inversa</string>
+
+    <!-- In Call Vibration -->
+    <string name="incall_vibration_category_title">Vibrazione in chiamata</string>
+    <string name="incall_vibrate_outgoing_title">Vibra alla risposta</string>
+    <string name="vibrate_call_waiting">Vibra per chiamata in attesa</string>
+    <string name="incall_vibrate_hangup_title">Vibra alla chiusura</string>
+    <string name="incall_vibrate_45_title">Vibra ogni minuto</string>
+    <string name="incall_vibrate_45_summary">Vibra ogni 45 secondi durante le chiamate in uscita</string>
 </resources>
